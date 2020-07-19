@@ -1,2 +1,2 @@
 # VehicleOOP
-Learning OOP using a varient of different examples. 
+Learning OOP using different examples. 
